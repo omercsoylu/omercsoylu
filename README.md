@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Blockchain things, Solidity lang., React and various Javascript frameworks**
 
+- 📝 I like and am interested in anything related to javascript [-](-)
+
 - 📫 How to reach me **omercsoylu@gmail.com**
+
+- ⚡ I am currently a participant of Patikadev - Paribu Hub - Smart Contract & Solidity Practicum. **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
