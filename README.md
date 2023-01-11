@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ömer Can</h1>
 <h3 align="center">I've developed somethings and I'm developing somethings</h3>
 
+- * I graduated from Hacettepe University, Department of Economics.
+
 - 🔭 I’m currently working on **my own project which has a blockchain related API service**
 
 - 🌱 I’m currently learning **Blockchain things, Solidity lang., React and various Javascript frameworks**
